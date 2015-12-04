@@ -1,3 +1,5 @@
 #1	I'm playing git and github.
 
 #2	It's very noughty! I'm angry!
+
+#3	Are you Pink Painter?
